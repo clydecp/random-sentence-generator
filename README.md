@@ -5,7 +5,6 @@ A Python script that generates random sentences based on a given corpus using n-
 ## Features
 
 - Generates random sentences using 1-gram to n-gram models.
-- 
 
 ## Usage
 
